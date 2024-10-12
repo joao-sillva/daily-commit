@@ -4,6 +4,7 @@
 
 #### Mês outubro de 2024
 
+- 11/07 - Concluído desafio **[Local turístico](https://github.com/joao-sillva/local-turistico)**
 - 10/10 - Desenvolvido parte 2 e concluído projeto **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**
 - 09/10 - Desenvolvido parte 1 do projeto **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**
 - 08/10 - Assistido módulo de **[Fundamentos CSS]()** - CSS, Box model, Fontes e textos, Cores e fundos
