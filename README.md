@@ -4,6 +4,7 @@
 
 #### Mês outubro de 2024
 
+- 16/10 - Assistido módulo de **[Layout com CSS]()** - CSS Grid
 - 15/10 - Desenvolvido projeto **[Travelgram](https://github.com/joao-sillva/travelgram)**
 - 14/10 - Assistido módulo de **[Layout com CSS]()** - Layout e evolução, CSS flexbox
 - 11/10 - Concluído desafio **[Local turístico](https://github.com/joao-sillva/local-turistico)**
