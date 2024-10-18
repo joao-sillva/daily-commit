@@ -4,6 +4,7 @@
 
 #### Mês outubro de 2024
 
+- 18/10 - Desenvolvido parte 2 e concluído projeto **[Tech News](https://github.com/joao-sillva/tech-news)**
 - 17/10 - Desenvolvido parte 1 do projeto **[Tech News](https://github.com/joao-sillva/tech-news)**
 - 16/10 - Assistido módulo de **[Layout com CSS]()** - CSS Grid
 - 15/10 - Desenvolvido projeto **[Travelgram](https://github.com/joao-sillva/travelgram)**
