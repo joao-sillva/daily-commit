@@ -4,6 +4,7 @@
 
 #### Mês outubro de 2024
 
+- 22/10 - Assistido módulo de **[Formulários]()** - Formulários HTML
 - 21/10 - Concluído desafio **[Portfólio dev](https://github.com/joao-sillva/portfolio-dev)**
 - 18/10 - Desenvolvido parte 2 e concluído projeto **[Tech News](https://github.com/joao-sillva/tech-news)**
 - 17/10 - Desenvolvido parte 1 do projeto **[Tech News](https://github.com/joao-sillva/tech-news)**
