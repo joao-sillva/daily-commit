@@ -4,7 +4,8 @@
 
 #### Mês outubro de 2024
 
-
+- 28/10 - Assistido módulo de **[Responsividade]()** - CSS media queries
+- 28/10 - Assistido módulo de **[CSS Functions]()**
 - 25/10 - Concluído desafio **[Festivite](https://github.com/joao-sillva/festivite)**
 - 24/10 - Desenvolvido parte 2 e Concluído projeto **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**
 - 23/10 - Desenvolvido parte 1 do projeto **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**
