@@ -4,6 +4,7 @@
 
 #### Mês outubro de 2024
 
+- 29/10 - Desenvolvido parte 1 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
 - 28/10 - Assistido módulo de **[Responsividade]()** - CSS media queries
 - 28/10 - Assistido módulo de **[CSS Functions]()**
 - 25/10 - Concluído desafio **[Festivite](https://github.com/joao-sillva/festivite)**
