@@ -4,6 +4,7 @@
 
 #### Mês outubro de 2024
 
+- 30/10 - Desenvolvido parte 2 e concluído projeto **[Zingen](https://github.com/joao-sillva/zingen)**
 - 29/10 - Desenvolvido parte 1 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
 - 28/10 - Assistido módulo de **[Responsividade]()** - CSS media queries
 - 28/10 - Assistido módulo de **[CSS Functions]()**
