@@ -4,6 +4,7 @@
 
 #### Mês outubro de 2024
 
+- 31/10 - Desenvolvido responsividade para projetos **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**, **[Local turístico](https://github.com/joao-sillva/local-turistico)**, **[Travelgram](https://github.com/joao-sillva/travelgram)**, **[Tech News](https://github.com/joao-sillva/tech-news)**
 - 30/10 - Desenvolvido parte 2 e concluído projeto **[Zingen](https://github.com/joao-sillva/zingen)**
 - 29/10 - Desenvolvido parte 1 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
 - 28/10 - Assistido módulo de **[Responsividade]()** - CSS media queries
