@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 04/11 - Assistido módulo de **[CSS Animations & Transitions]()**
 - 01/11 - Desenvolvido responsividade para projetos **[Portfólio dev](https://github.com/joao-sillva/portfolio-dev)**, **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**, **[Festivite](https://github.com/joao-sillva/festivite)**, **[Zingen](https://github.com/joao-sillva/zingen)**
 
 <br>
