@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 05/11 - Desenvolvido parte 2 e concluído projeto **[Snitap](https://github.com/joao-sillva/snitap)**
 - 04/11 - Desenvolvido parte 1 do projeto **[Snitap](https://github.com/joao-sillva/snitap)**
 - 04/11 - Assistido módulo de **[CSS Animations & Transitions]()**
 - 01/11 - Desenvolvido responsividade para projetos **[Portfólio dev](https://github.com/joao-sillva/portfolio-dev)**, **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**, **[Festivite](https://github.com/joao-sillva/festivite)**, **[Zingen](https://github.com/joao-sillva/zingen)**
