@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 07/11 - Desenvolvido parte 2 e concluído desafio **[Encantos literários](https://github.com/joao-sillva/encantos-literarios)**
 - 06/11 - Desenvolvido parte 1 do desafio **[Encantos literários](https://github.com/joao-sillva/encantos-literarios)**
 - 05/11 - Desenvolvido parte 2 e concluído projeto **[Snitap](https://github.com/joao-sillva/snitap)**
 - 04/11 - Desenvolvido parte 1 do projeto **[Snitap](https://github.com/joao-sillva/snitap)**
