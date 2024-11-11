@@ -4,6 +4,9 @@
 
 #### Mês novembro de 2024
 
+- 11/11 - Desenvolvido projeto **[Móveis customizados](https://github.com/joao-sillva/moveis-customizados)**
+- 11/11 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** 
+- 11/11 - Assistido módulo de **[Land 02 - Objetivos e planejamento]()**
 - 08/11 - Assistido módulo de **[Stage 01 - Fundamentos da programação WEB]()**
 - 08/11 - Assistido módulo de **[Land 01 - Início da missão]()**
 - 07/11 - Desenvolvido parte 2 e concluído desafio **[Encantos literários](https://github.com/joao-sillva/encantos-literarios)**
