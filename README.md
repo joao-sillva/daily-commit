@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 12/11 - Concluído desafio **[Flutuar](https://github.com/joao-sillva/flutuar)**
 - 11/11 - Desenvolvido projeto **[Móveis customizados](https://github.com/joao-sillva/moveis-customizados)**
 - 11/11 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** 
 - 11/11 - Assistido módulo de **[Land 02 - Objetivos e planejamento]()**
