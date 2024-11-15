@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 15/11 - Desenvolvido projeto **[Crie seu evento](https://github.com/joao-sillva/crie-seu-evento)**
 - 14/11 - Concluído desafio **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
 - 13/11 - Desenvolvido projeto **[Treine.me](https://github.com/joao-sillva/treine-me)**
 - 13/11 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** - Conhecendo novos conceitos
