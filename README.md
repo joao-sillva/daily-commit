@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 19/11 - Concluído desafio **[Avalie sua mentoria](https://github.com/joao-sillva/avalie-sua-mentoria)**
 - 18/11 - Concluído desafio **[Mentoria](https://github.com/joao-sillva/mentoria)**
 - 15/11 - Desenvolvido projeto **[Crie seu evento](https://github.com/joao-sillva/crie-seu-evento)**
 - 14/11 - Concluído desafio **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
