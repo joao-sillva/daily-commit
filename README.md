@@ -4,6 +4,8 @@
 
 #### Mês novembro de 2024
 
+- 21/11 - Desenvolvido projeto **[Cheesecake](https://github.com/joao-sillva/cheesecake)**
+- 21/11 - Assistido modulo de **[Stage 03 - Avançando no HTML e CSS]()** - Reforçando a responsividade
 - 20/11 - Desenvolvido projeto **[Responsividade](https://github.com/joao-sillva/responsividade)**
 - 20/11 - Assistido modulo de **[Stage 03 - Avançando no HTML e CSS]()** - Responsividade
 - 19/11 - Desenvolvido desafio **[Avalie sua mentoria](https://github.com/joao-sillva/avalie-sua-mentoria)**
