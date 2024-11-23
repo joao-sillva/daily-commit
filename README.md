@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 22/11 - Desenvolvido responsividade para projetos **[Móveis customizados](https://github.com/joao-sillva/moveis-customizados)**, **[Flutuar](https://github.com/joao-sillva/flutuar)**, **[Treine.me](https://github.com/joao-sillva/treine-me)**, **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
 - 21/11 - Desenvolvido projeto **[Cheesecake](https://github.com/joao-sillva/cheesecake)**
 - 21/11 - Assistido modulo de **[Stage 03 - Avançando no HTML e CSS]()** - Reforçando a responsividade
 - 20/11 - Desenvolvido projeto **[Responsividade](https://github.com/joao-sillva/responsividade)**
