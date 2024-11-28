@@ -4,6 +4,7 @@
 
 #### Mês novembro de 2024
 
+- 27/11 - Desenvolvido projeto **[Componentes](https://github.com/joao-sillva/componentes)**
 - 26/11 - Desenvolvido projeto **[Galaxies](https://github.com/joao-sillva/galaxies)**
 - 26/11 - Assistido modulo de **[Stage 03 - Avançando no HTML e CSS]()** - Iniciando com o Grid
 - 25/11 - Desenvolvido responsividade para projetos **[Crie seu evento](https://github.com/joao-sillva/crie-seu-evento)**, **[Mentoria](https://github.com/joao-sillva/mentoria)**, **[Avalie sua mentoria](https://github.com/joao-sillva/avalie-sua-mentoria)**, **[Cheesecake](https://github.com/joao-sillva/cheesecake)**
