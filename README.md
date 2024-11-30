@@ -4,6 +4,9 @@
 
 #### Mês novembro de 2024
 
+- 29/11 - Desenvolvido desafio **[Blog de gatos](https://github.com/joao-sillva/blog-de-gatos)**
+- 28/11 - Desenvolvido projeto **[Fotoblog](https://github.com/joao-sillva/fotoblog)**
+- 28/11 - Assistido modulo de **[Stage 03 - Avançando no HTML e CSS]()** - Avançando no CSS
 - 27/11 - Desenvolvido projeto **[Componentes](https://github.com/joao-sillva/componentes)**
 - 26/11 - Desenvolvido projeto **[Galaxies](https://github.com/joao-sillva/galaxies)**
 - 26/11 - Assistido modulo de **[Stage 03 - Avançando no HTML e CSS]()** - Iniciando com o Grid
