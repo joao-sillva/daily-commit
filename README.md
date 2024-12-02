@@ -2,6 +2,12 @@
 
 <br>
 
+#### Mês dezembro de 2024
+
+- 02/12 - Assistido módulo de **[JavaScript básico](https://github.com/joao-siilva/javascript-basico)** - Primeiros passos
+
+<br>
+
 #### Mês novembro de 2024
 
 - 29/11 - Desenvolvido desafio **[Blog de gatos](https://github.com/joao-sillva/blog-de-gatos)**
