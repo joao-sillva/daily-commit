@@ -4,6 +4,7 @@
 
 #### Mês dezembro de 2024
 
+- 04/12 - Assistido módulo de **[JavaScript básico](https://github.com/joao-siilva/javascript-basico)** - Expressões e operadores
 - 03/12 - Assistido módulo de **[JavaScript básico](https://github.com/joao-siilva/javascript-basico)** - Variáveis e constatnes
 - 02/12 - Assistido módulo de **[JavaScript básico](https://github.com/joao-siilva/javascript-basico)** - Primeiros passos
 
